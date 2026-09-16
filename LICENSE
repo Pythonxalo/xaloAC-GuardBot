@@ -1,21 +1,98 @@
-MIT License
+===============================================================================
+               XALOAC ÖZEL MÜLKİYET YAZILIM LİSANS SÖZLEŞMESİ
+===============================================================================
+Telif Hakkı (c) 2026 xaloAC Markası. Tüm Hakları Yasalarca Saklıdır.
+Mülkiyet Sahibi, Kurucu ve Baş Geliştirici: @x410m1s0 (Pythonxalo)
+Resmi Ticari Marka / Yapımcı: xaloAC
+Proje Adı: Xalo_Guard
+Sözleşme Sürümü: 1.0.1
+===============================================================================
 
-Copyright (c) 2026 xaloAC
+LÜTFEN BU SÖZLEŞMEYİ DİKKATLİCE OKUYUNUZ. BU REPOSITORY'E (DEPOYA) ERİŞEREK, 
+KODLARI İNCELEYEREK, KOPYALAYARAK VEYA HERHANGİ BİR ŞEKİLDE KULLANARAK, 
+AŞAĞIDAKİ TÜM ŞARTLARI KAYITSIZ ŞARTSIZ KABUL ETMİŞ SAYILIRSINIZ.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+-------------------------------------------------------------------------------
+MADDE 1 - TARAFLAR VE TANIMLAR
+-------------------------------------------------------------------------------
+1.1. Lisans Veren (Mal Sahibi): xaloAC resmi markasının kurucusu, yasal hak sahibi 
+     ve baş geliştiricisi olan "@x410m1s0" (GitHub: Pythonxalo) kişisidir.
+1.2. Yazılım: xaloAC markası altında geliştirilen tüm Python kaynak kodları, 
+     veritabanı şemaları, mantıksal algoritmalar, mimari yapılar, belgeler, 
+     tasarımlar ve ilgili tüm dijital varlıklardır.
+1.3. Kullanıcı (Ziyaretçi): Bu GitHub deposuna erişen, kodları inceleyen veya 
+     herhangi bir şekilde yazılımla etkileşime giren tüm gerçek veya tüzel kişilerdir.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+-------------------------------------------------------------------------------
+MADDE 2 - FİKRİ MÜLKİYET VE MARKA BEYANI
+-------------------------------------------------------------------------------
+2.1. Yazılımın, kodların ve yazılıma bağlı tüm yan ürünlerin asıl, fikri, sınai 
+     ve mülkiyet hakları münhasıran (tamamen) xaloAC markasına ve @x410m1s0'a aittir. 
+2.2. "xaloAC" ismi, logosu ve bu isim altında üretilen tüm yazılımlar ticari koruma 
+     altındadır. Kodların GitHub üzerinde herkese açık (Public) olarak barındırılması, 
+     yazılımın veya xaloAC markasının haklarının kamuya devredildiği anlamına kesinlikle 
+     gelmez. Bu gösterim sadece "inceleme ve referans" amaçlıdır.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+-------------------------------------------------------------------------------
+MADDE 3 - KESİNLİKLE YASAKLANAN EYLEMLER (MÜNHASIR KISITLAMALAR)
+-------------------------------------------------------------------------------
+Kullanıcı, bu sözleşmeyi kabul ederek aşağıdaki eylemleri hiçbir koşulda 
+gerçekleştirmeyeceğini taahhüt eder. Aksine davranışlar doğrudan ağır suç teşkil eder:
+
+3.1. Kopyalama ve Çoğaltma Yasağı: Kaynak kodların tamamı veya herhangi bir 
+     satırı, mantıksal fonksiyonu, algoritması kopyalanamaz, klonlanamaz, 
+     başka bir bilgisayara yedeklenemez veya kopyası çıkarılamaz.
+3.2. Değiştirme ve Türetme Yasağı: Yazılımın kodları üzerinde düzenleme yapılamaz, 
+     Türkçeleştirme veya başka bir dile çevirme işlemi uygulanamaz, kod yapısı 
+     bozularak veya geliştirilerek xaloAC çatısı dışındaki projeler için yeni bir 
+     bot veya yazılım türetilemez.
+3.3. Dağıtım, Paylaşım ve Hosting Yasağı: Kaynak kodlar veya derlenmiş hali, 
+     kamuya açık ya da özel olarak hiçbir platformda (GitHub, GitLab, Discord, 
+     Forum siteleri vb.) paylaşılamaz, satılamaz, kiralanamaz, lisanslanamaz 
+     veya xaloAC markasından bağımsız olarak sunucularda barındırılamaz.
+3.4. Ticari Kullanım ve Rant Yasağı: Bu yazılım veya yazılımın herhangi bir 
+     parçası, doğrudan veya dolaylı olarak ticari bir kazanç elde etmek, ücretli 
+     bir hizmet sunmak veya abonelik satmak amacıyla kesinlikle kullanılamaz.
+3.5. Filigran ve Marka Kaldırma Yasağı: Kodların içerisindeki tüm yorum 
+     satırları, @x410m1s0 ibareleri, xaloAC logoları, telif hakkı bildirimleri ve 
+     botun Discord üzerinde gönderdiği mesajlardaki yapımcı/marka bilgileri (xaloAC) 
+     kesinlikle silinemez, gizlenemez veya değiştirilemez.
+
+-------------------------------------------------------------------------------
+MADDE 4 - İHLAL DURUMUNDA UYGULANACAK HUKUKİ VEYA TEKNİK YAPTIRIMLAR
+-------------------------------------------------------------------------------
+4.1. Dijital Kaldırma (DMCA): Madde 3'teki kısıtlamaların veya xaloAC marka 
+     haklarının ihlal edilmesi durumunda, xaloAC ihlali gerçekleştiren platformlara 
+     doğrudan DMCA (Telif Hakkı İhlali) bildirimi göndererek ilgili depoları, 
+     siteleri ve hesapları kalıcı olarak kapattırma hakkına sahiptir.
+4.2. Yasal Takibat: xaloAC markası ve @x410m1s0, telif haklarının çiğnenmesi 
+     durumunda ilgili ülkelerin siber suçlar ve fikri mülkiyet mahkemelerinde 
+     yasal süreç başlatma, suç duyurusunda bulunma hakkını saklı tutar.
+4.3. Maddi ve Manevi Tazminat: Kodları çalan, izinsiz kullanan veya xaloAC 
+     marka adını haksız yere kullanan şahıslardan, markanın uğradığı tüm maddi 
+     kayıplar, potansiyel müşteri zararları ve manevi hak ihlalleri için geriye 
+     dönük en yüksek sınırdan tazminat talep edilecektir.
+
+-------------------------------------------------------------------------------
+MADDE 5 - GARANTİ VERİLMEMESİ VEYA SORUMLULUK REDDİ (DISCLAIMER)
+-------------------------------------------------------------------------------
+5.1. Bu yazılım kullanıcıya "OLDUĞU GİBİ" (AS IS) sunulmaktadır. Yazılımın 
+     hatasız çalışacağına, kesintisiz hizmet vereceğine veya kusursuz bir 
+     güvenlik sağlayacağına dair hiçbir garanti verilmemektedir.
+5.2. Yazılımın kullanımından, yanlış yapılandırılmasından, sunucu ayarlarından 
+     veya botta meydana gelebilecek olası yazılımsal hatalardan dolayı Discord 
+     sunucularında oluşabilecek veri kayıpları, rol/kanal silinmeleri, üye 
+     kayıpları veya hukuki yaptırımlardan mülkiyet sahibi @x410m1s0 ve xaloAC 
+     asla ve hiçbir şart altında sorumlu tutulamaz. Tüm sorumluluk kullanıcıya aittir.
+
+-------------------------------------------------------------------------------
+MADDE 6 - YÜRÜRLÜK VE DEĞİŞİKLİKLER
+-------------------------------------------------------------------------------
+6.1. Bu sözleşme, yazılım bu depoda barındırıldığı sürece yürürlüktedir.
+6.2. Mülkiyet sahibi @x410m1s0 ve xaloAC markası, bu sözleşme maddelerini önceden 
+     haber vermeksizin istediği zaman değiştirme, güncelleme veya genişletme 
+     hakkını saklı tutar.
+
+===============================================================================
+     SÖZLEŞME BURADA BİTMİŞTİR. XALOAC MARKASI TÜM YASAL HAKLARINI SAKLI TUTAR.
+===============================================================================
