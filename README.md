@@ -1,3 +1,5 @@
+https://discord.gg/psq6P3fVvN
+
 # Xalo Guard
 
 Discord güvenlik botu.
@@ -6,7 +8,7 @@ Discord güvenlik botu.
 
 1. Python 3.11+ kur.
 2. Bu klasörde terminal aç:
-   `python -m pip install -r requirements.txt`
+   `pip install -r requirements.txt & python -m pip install -r requirements.txt`
 3. `.env.example` dosyasını `.env` olarak kopyala.
 4. `.env` içine bot tokenini yaz:
    `DISCORD_TOKEN=...`
